@@ -1,0 +1,18 @@
+:host {
+  width: 105px;
+  height: 95px;
+  border: 10px solid black;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.pinojogador{
+  height: 26%;
+  width: 26%;
+  border: 2px solid;
+  border-radius: 100%;
+  margin: 10px;
+}
+
